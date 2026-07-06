@@ -32,7 +32,7 @@ server board:
 * **CPU**: single socket SP5 (LGA 6096), supporting AMD EPYC 9005 series
   processors.
 * **Memory**: 8 DDR5 RDIMM slots (1 DIMM per channel).
-* **Expansion**: PCIe 5.0 slots and two M.2 (PCIe 5.0 NVMe) slots.
+* **Expansion**: 4 PCIe 5.0 slots and 2 M.2 (PCIe 5.0 NVMe) slots.
 * **Networking**: onboard 10 GbE.
 
 The DUT is mounted in a Dasharo BenchRack, which supplies remote power control,
