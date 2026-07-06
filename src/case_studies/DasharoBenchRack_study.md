@@ -26,7 +26,7 @@ It contains the following sections:
 ## Platform overview
 
 The device under test (DUT) covered by this case study is the
-[ASRock Rack TURIND8UD](https://www.asrockrack.com/), a single-socket AMD EPYC
+[ASRock Rack TURIND8UD](https://www.asrockrack.com/general/productdetail.asp?Model=TURIND8UD-2T/X550), a single-socket AMD EPYC
 server board:
 
 * **CPU**: single socket SP5 (LGA 6096), supporting AMD EPYC 9005 series
